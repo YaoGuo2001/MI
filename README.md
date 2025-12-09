@@ -1,4 +1,4 @@
-This repository is for the paper arXiv:2510.24121 by Yao Guo et al., currently under review at The Astrophysical Journal.
+This repository is for the paper [arXiv:2510.24121](https://arxiv.org/abs/2510.24121) by Yao Guo et al., currently under review at The Astrophysical Journal.
 
 It includes a Mathematica notebook, which can be used to solve the linear growth rate of the collisionless shear instability in shear flows subject to a uniform flow-aligned external magnetic field.
 
