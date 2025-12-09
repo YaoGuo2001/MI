@@ -4,7 +4,7 @@ It includes a Mathematica notebook, which can be used to solve the linear growth
 
 The shear flow is assumed to be infinite, uniform in density, and characterized with a symmetrical and discontinuous velocity profile $v_0(x)=V_0\times sgn(x)$.
 
-The shear flow and the perturbation mode is determined by 4 dimensionless parameters $V_0/c$, $\omega_c/\omega_p$, $k_y*V_0/\omega_p$ and $k_z*V_0/\omega_p$.
+The shear flow and the perturbation mode is determined by 4 dimensionless parameters $V_0/c$, $\omega_c/\omega_p$, $k_yV_0/\omega_p$ and $k_zV_0/\omega_p$.
 
 The Notebook gives the eigenfrequency (whose imaginary part is the linear growth rate) of the perturbation mode as long as the values of the 4 parameters are assigned.
 
