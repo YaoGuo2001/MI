@@ -8,7 +8,7 @@ The shear flow and the perturbation mode is determined by 4 dimensionless parame
 
 The Notebook gives the eigenfrequency (whose imaginary part is the linear growth rate) of the perturbation mode as long as the values of the 4 parameters are assigned.
 
-$\\$
+------------------------------------------
 
 Author: Yao Guo (过尧)
 
